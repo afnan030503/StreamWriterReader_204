@@ -10,5 +10,6 @@ int main() {
 	try {
 		array<int, 3>data = { 1, 2, 3 };
 		//pesan array intereger 3 elemen
+		cout << data.at(4)
 	}
 }
