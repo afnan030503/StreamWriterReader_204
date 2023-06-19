@@ -7,4 +7,8 @@ using namespace std;
 
 int main() {
 	cout << "Awal program" << endl; //penanda 1:
+	try {
+		array<int, 3>data = { 1, 2, 3 };
+		//pesan array intereger 3 elemen
+	}
 }
